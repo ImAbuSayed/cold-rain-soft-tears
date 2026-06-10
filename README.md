@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cold-rain-soft-tears/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Cold Rain Soft Tears](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cold-rain-soft-tears/) |
+| **Get License** | [Get License For Cold Rain Soft Tears](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cold-rain-soft-tears/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `74fb900bac785157e9a9155262e3119128e052ab200c46864e2955b332d54bb8` |
 | **Timestamp** | June 10, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
