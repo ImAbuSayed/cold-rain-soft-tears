@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cold-rain-soft-tears/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Cold Rain Soft Tears](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cold-rain-soft-tears/) |
+| **Get License** | [Get a Licensing Quote for Cold Rain Soft Tears](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cold-rain-soft-tears/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> The porch light's burning through the cold rain falling down
+> It's a quiet kind of magic when there's no one else around
+> I can see the soft tears shining in the shadow of your eyes
+> Let me pull you in a little closer, leave the world outside
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
